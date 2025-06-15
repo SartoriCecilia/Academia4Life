@@ -60,6 +60,7 @@ private static final String SENHA = "sua_senha";
 Execute a classe Main.java para iniciar o sistema.
 
 📦 Estrutura do Projeto
+
 🔹 Main.java
 Interface principal (CLI), com os menus:
 
@@ -85,6 +86,7 @@ Responsável pelas operações SQL da tabela treinos.
 
 🔹 ConexaoBD.java
 Faz a conexão com o banco de dados MySQL utilizando JDBC.
+
 
 💻 Exemplo de Execução (CLI)
 ======================================
