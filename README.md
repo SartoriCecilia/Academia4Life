@@ -22,6 +22,7 @@ O sistema Academia 4Life permite que a administração da academia:
 - Terminal (CLI)
 
 🚀 Como Executar
+
 •Clone o repositório:
 
 git clone https://github.com/seuusuario/academia-4life.git
@@ -87,25 +88,34 @@ Responsável pelas operações SQL da tabela treinos.
 🔹 ConexaoBD.java
 Faz a conexão com o banco de dados MySQL utilizando JDBC.
 
-
 💻 Exemplo de Execução (CLI)
+
+            ACADEMIA 4LIFE
 ======================================
-          ACADEMIA 4LIFE              
-======================================
+
 1 - Gerenciar Alunos
+
 2 - Gerenciar Treinos
+
 0 - Sair
+
 Escolha uma opcao: 1
 
 =========== MENU DE ALUNO ============
+
 1 - Cadastrar Aluno
+
 2 - Listar Alunos
+
 3 - Editar Aluno
+
 4 - Excluir Aluno
 
 👩‍💻 Autores
+
 Desenvolvido por Cecília Sartori e Indria Quito.
 
 📄 Licença
+
 Este projeto está licenciado sob os termos da MIT License.
 
